@@ -210,16 +210,5 @@ while game_on:
 
 
 
-# Shuffle cards - done
-# let player place bet - done
-# deal two cards to each person - done
-# tell the player what cards he has - done
-# tell the player one card of the dealer - done
-# ask them if they want to hit or stay - done
-# tell them if they bust - done
-# if they dont bust, ask if they want to hit again
-# 
-# let the dealer play if the player stands
-# someone wins or loses - done
-# pay them out - done
-# ask if they want to play again - done
+
+
